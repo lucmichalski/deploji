@@ -1,4 +1,4 @@
-import { FormArray, FormControl, FormGroup } from '@angular/forms';
+  import { FormArray, FormControl, FormGroup } from '@angular/forms';
 import { Inventory } from '../interfaces/inventory';
 import { JobTypesEnum } from '../enums/job-types.enum';
 import { Job } from '../interfaces/job';
